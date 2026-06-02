@@ -9,7 +9,7 @@ print(top_text, bottom_text)
 print("Список картинок:")
 print("1. Кот в ресторане")
 print("2. Кот в очках")
-print("3. Пепси-мэн")
+print("3. Пепси мэн")
 
 image_number = int(input("Введите номер картинки"))
 
